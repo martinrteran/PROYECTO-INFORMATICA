@@ -1,6 +1,11 @@
 D
-KADSFJKAJFDS 
- DFDSKA 
+KADSFJKAJFDS
+ DFDSKA
  DKFASJD
- 
+
 hia
+
+trying something new
+#include <stdlib.h>
+#define dim 1
+printf("Hello world\n", );
